@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/scotti/CLionProjects/mariaDbTest'
+make: Leaving directory '/home/scotti/CLionProjects/mariaDbTest'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
